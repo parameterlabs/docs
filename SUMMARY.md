@@ -1,3 +1,4 @@
 # Table of contents
 
-* [HI](README.md)
+* [Welcome](README.md)
+* [Getting Started](getting-started.md)
