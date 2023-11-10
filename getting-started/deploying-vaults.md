@@ -2,7 +2,7 @@
 
 ## Overview
 
-The core behind parameter is an asset vault. Every vault has a base asset that deposits, and withdrawals are made. The base asset is also used for relative performance metrics. \
+The core behind parameter is an asset vault. Every vault has a base asset that is used for deposits, withdrawals, and relative performance metrics. \
 \
 Besides the logic for interacting with LPs (deposit, withdrawal requests, repossession, etc.), the core of the vault operates similar to a [diamond proxy contract](https://eips.ethereum.org/EIPS/eip-2535). \
 \
